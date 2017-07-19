@@ -1,0 +1,11 @@
+/NetflixDataParser.class
+/NetflixTopRatedMovies.class
+/NetflixYearDataCountAnalysis.class
+/RatingRangeMovies.class
+/RatingRangeMoviesMapper.class
+/RatingRangeMoviesPartitioner.class
+/RatingRangeMoviesReducer.class
+/TopRatedCountMapper.class
+/TopRatedCountReducer.class
+/YearDataMapper.class
+/YearDataReducer.class
